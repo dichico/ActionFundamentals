@@ -9,7 +9,7 @@ We are going to break some things, so we can teach you how to fix them (therefor
 
 You can set up your free account by following these steps:
 
-* Access [GitHub.com](https://github.com) and click Sign up
+* Access [GitHub.com](https://github.com) and click Sign up 
 * Choose the free account
 * You will receive a verification email at the address provided
 * Click the link to complete the verification process
